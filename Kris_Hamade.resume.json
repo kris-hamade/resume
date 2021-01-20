@@ -1,0 +1,347 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true,
+		"items": [
+			{
+				"title": "A+",
+				"issuer": "CompTIA",
+				"date": "",
+				"summary": "",
+				"id": "42374684-a4e5-48c1-b9b2-e7e26210126f"
+			},
+			{
+				"title": "Network+",
+				"issuer": "CompTIA",
+				"date": "",
+				"summary": "",
+				"id": "90ce2186-00a1-4896-9ff5-2d9f2b91cc9d"
+			},
+			{
+				"title": "IT Operations Specialist",
+				"issuer": "CompTIA",
+				"date": "",
+				"summary": "",
+				"id": "d2a4ea1d-8537-43b3-b5fb-0171cf60ac50"
+			},
+			{
+				"title": "Getting Started with Azure",
+				"issuer": "Cloud Academy",
+				"date": "",
+				"summary": "",
+				"id": "52216342-057a-40ce-a9f8-620a6084e696"
+			},
+			{
+				"title": "Enterprise Mobility Associate",
+				"issuer": "AirWatch",
+				"date": "",
+				"summary": "",
+				"id": "a341800a-df04-49c8-bf64-93f10e0c06be"
+			},
+			{
+				"title": "Enterprise Mobility Professional",
+				"issuer": "AirWatch",
+				"date": "",
+				"summary": "",
+				"id": "16c6867e-c6f3-4c15-b03a-b63a5b6c4a46"
+			}
+		]
+	},
+	"education": {
+		"heading": "Education",
+		"items": [
+			{
+				"degree": "Bachelor of Science",
+				"endDate": "2019-12-31",
+				"field": "Management",
+				"gpa": "",
+				"id": "b8390ba3-2383-4eb5-b553-68b153e32c7c",
+				"institution": "University of Phoenix",
+				"startDate": "2017-12-31",
+				"summary": ""
+			},
+			{
+				"degree": "Associate’s Degree",
+				"endDate": "2015-12-31",
+				"field": "Criminal Justice",
+				"gpa": "",
+				"id": "9a81afb8-8e40-4116-99b1-3ae41744499e",
+				"institution": "Oakland Community College",
+				"startDate": "2008-12-31",
+				"summary": ""
+			},
+			{
+				"degree": "Associate’s Degree",
+				"endDate": "2015-12-31",
+				"field": "General Studies",
+				"gpa": "",
+				"id": "6e5a4581-4987-4469-b828-e229aac518cf",
+				"institution": "Oakland Community College",
+				"startDate": "2008-12-31",
+				"summary": ""
+			}
+		],
+		"visible": true
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#4CAF50",
+			"text": "#444444"
+		},
+		"font": "Lato",
+		"fontSize": "10",
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"skills",
+					"certifications",
+					"languages",
+					"education"
+				],
+				[
+					"objective",
+					"work",
+					"projects",
+					"hobbies",
+					"awards",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "castform"
+	},
+	"objective": {
+		"body": "IT Professional with 7 years of Enterprise desktop support and network administration experience. Investigative and always growing expertise in automation, networking, security, software development, and technology leadership.",
+		"heading": "Objective",
+		"visible": true
+	},
+	"preview": "https://images.unsplash.com/photo-1610338724170-5406cb1991ad?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=MXwxfDB8MXxyYW5kb218fHx8fHx8fA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=400",
+	"profile": {
+		"address": {
+			"city": "Waterford",
+			"line1": "2829 Buick Ave",
+			"pincode": "48328"
+		},
+		"email": "khamade22@gmail.com",
+		"firstName": "Kris",
+		"lastName": "Hamade",
+		"phone": "2488049058",
+		"photograph": "",
+		"subtitle": "Technology Coordinator",
+		"website": "kris-hamade.com"
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"items": [
+			{
+				"id": "6d7fedae-f762-4a05-8465-ed5fa8e6ede7",
+				"level": " ",
+				"name": "React.js"
+			},
+			{
+				"id": "bd584ed9-f3c3-41c8-91d2-f709c959e85b",
+				"level": " ",
+				"name": "C#"
+			},
+			{
+				"id": "e3c41293-30dc-47cb-a26a-c53df9b4753f",
+				"level": " ",
+				"name": "Python"
+			},
+			{
+				"id": "6eef482c-9430-4774-8140-99c1c6c5c19f",
+				"level": " ",
+				"name": "JavaScript"
+			},
+			{
+				"id": "3ef6540b-66c3-426a-bac5-86be5dc4c564",
+				"level": " ",
+				"name": "Git"
+			},
+			{
+				"id": "8a7061c6-de1d-479e-99a4-1bc48c9671eb",
+				"level": " ",
+				"name": "Node.js"
+			}
+		],
+		"visible": true
+	},
+	"social": {
+		"heading": "Social Network",
+		"items": [
+			{
+				"id": "f5333029-5ec1-4a37-97ab-90160a2f03c4",
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/khamade22/",
+				"username": "khamade22"
+			}
+		],
+		"visible": true
+	},
+	"work": {
+		"heading": "Work Experience",
+		"items": [
+			{
+				"company": "Oakland Schools",
+				"endDate": "",
+				"id": "a5042bf7-c1be-4ccf-8267-f34ba81dedbb",
+				"position": "Technology Coordinator",
+				"startDate": "2020-07-31",
+				"summary": "• Supervises team of four technicians that provide on-site support to the counties career focused campuses\n• Co-Supervises a Service Desk which provides Enterprise level support to all 28 school districts in Oakland County and the state-wide MIServiceDesk initiative\n• Works to improve processes and ensure that our teams have the tools they need to provide world-class customer service by meeting Service Level Agreements\n• Key point of contact for assisting in the planning and development of the STEMi project as well as meeting equipment upgrade and refresh deadlines for our Career Focused Education Department\n• Leads the planning and execution of long-term projects that will guarantee the success of our Service Desk for the foreseeable future\n• Required to maintain interdepartmental communication while executing projects with external vendors",
+				"website": "https://oakland.k12.mi.us"
+			},
+			{
+				"company": "Oakland Schools",
+				"endDate": "2020-07-31",
+				"id": "813bb1b8-00f8-4044-bd4a-b88ac3ccbe86",
+				"position": "Network Administrator",
+				"startDate": "2019-05-31",
+				"summary": "• Manages network operations for two school districts and provides backup support for three others\n• Assists in the design and implementation of new network equipment and topology\n• Maintains network accounts assigned to two school districts\n• Created web application utilizing Node.js, JavaScript, HTML, and CSS to allow for quick renaming and rebooting of Cisco Meraki Networking Equipment, saving time for other district network administrators\n• Created a web dashboard with React.js to allow for our department to see which Network Administrator is currently available to allow for better support\n• Understands management of both Extreme Networks and Cisco Meraki networking equipment\n• Simplifies complex and tedious tasks through bash, JavaScript, PowerShell, and Python scripting/programming",
+				"website": "https://oakland.k12.mi.us"
+			},
+			{
+				"company": "Oakland Schools",
+				"endDate": "2019-04-30",
+				"id": "463e8d38-1a5d-44e6-8e01-9735d561cc50",
+				"position": "Senior Technical Support Specialist",
+				"startDate": "2016-07-31",
+				"summary": "• Member of the Symantec ITMS support team, which maintains and creates processes for system and software management as well as OS deployment\n• Primary VMware Workspace ONE MDM Administrator for Oakland Schools\n• Began streamlining Raspberry pi deployment and support process for room displays at Oakland Schools and dashboards for metrics\n• Developed a web application using C# and ASP.net to assist the Network Operations Center with providing on-demand exports of Google email distribution groups that customers can perform themselves, alleviating a portion of the workload from their team\n• Developed a C# application that clones group memberships between users using PowerShell, saving time for Service Desk staff that had to previously add each membership by hand\n• Maintains user and extension changes in MITEL phone system\n• Created scripts to make the Windows 10 imaging process easier until we moved to Symantec ITMS\n• Created and maintained group policies for Windows devices\n• Implemented and lead weekly sync-up meetings to improve processes\n",
+				"website": "https://oakland.k12.mi.us"
+			},
+			{
+				"company": "Oakland Schools",
+				"endDate": "2016-06-30",
+				"id": "0a7b7238-604b-4209-b4f5-438296bb96ea",
+				"position": "Technical Support Specialist",
+				"startDate": "2014-09-30",
+				"summary": "• Assisted with the setup of two CentOS servers for use with AirWatch under the guidance of a Senior Network Administrator\n• Implemented a successful onboarding of Novi’s 700 device iPad deployment into Oakland Schools' AirWatch environment\n• Assisted with the setup and planning of Holly Area School’s iPad deployment utilizing a JAMF MDM solution\n• Created a free and functional knowledge base using Trello that allowed for new and experienced staff to easily and quickly find solutions for customer issues. This solution was recognized at the MAEDS conference in 2015",
+				"website": "https://oakland.k12.mi.us"
+			},
+			{
+				"company": "Oakland Schools",
+				"endDate": "2014-09-30",
+				"id": "684049e5-d45f-4476-9fc6-d87806c9da03",
+				"position": "Technical Assistant",
+				"startDate": "2013-09-30",
+				"summary": "• Implemented Meraki Systems Manager for remote iOS device support which allowed our team to provide\nmore efficient customer service\n• Completed the build of a Clonezilla Imaging Server which allowed for several weeks’ worth of by-hand\nimaging to be completed in a few days\n• Utilized PDQ Deploy for automated remote software deployments",
+				"website": "https://oakland.k12.mi.us"
+			},
+			{
+				"company": "GameStop",
+				"endDate": "2014-01-31",
+				"id": "02287836-b0d5-4c10-b873-09dbe85d2f17",
+				"position": "Assistant Store Manager",
+				"startDate": "2007-01-31",
+				"summary": "•\tCreated and modified weekly staff schedules to allow for proper coverage during peak store hours\n•\tConducted interviews to hire new staff members\n•\tGenerated daily sales reports to provide to the district and regional managers\n•\tInventory and asset tracking\n•\tImplemented new company procedures and initiatives\n•\tHandled large cash deposits\n•\tSupervised the work of 4 - 6 staff members ensuring that sales goals were met, customer needs were being satisfied, and store policies and procedures were being followed properly",
+				"website": "https://www.linkedin.com/company/gamestop/"
+			}
+		],
+		"visible": true
+	}
+}
